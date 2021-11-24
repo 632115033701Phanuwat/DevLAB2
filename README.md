@@ -140,3 +140,6 @@ Hotkey:
     Markup Code appears between colons :EMOJICODE:
 
     :mask:
+
+    Wanatchaya Kaewwongwan 632115036 
+    Idea
